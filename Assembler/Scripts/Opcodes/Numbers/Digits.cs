@@ -25,11 +25,9 @@ namespace Assembler
         //Check if the char is a digit
         public override bool IsValid(char c)
         {
-            if(byte.Parse(c.ToString()) <= 9)
-            {
-                return true;
-            }
-            return false;
+            //If it's higher then 0 and lower then 9, it's a digit
+            return c >= '0' && c <= '9';
+
         }
 
         //Get the opcode value for the digit(literally just the digit lmfao)

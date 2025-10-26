@@ -32,7 +32,7 @@ namespace Assembler
             return false;
         }
 
-        private const byte opcode = 0xB7; // Opcode for mov into register(+ register index)
+        private const byte opcode = 0xB8; // Opcode for mov into register(+ register index)
 
         public override byte OpcodeValue(char name)
         {
@@ -64,18 +64,6 @@ namespace Assembler
                         throw new Exception($"Invalid register specified by the name of: {name}");
                 }
             }
-        }
-
-        public enum Registers : byte
-        {
-            EAX = 1,
-            ECX = 2,
-            EDX = 3,
-            EBX = 4,
-            ESP = 5,
-            EBP = 6,
-            ESI = 7,
-            EDI = 8
         }
     }
 }

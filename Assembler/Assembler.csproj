@@ -41,6 +41,7 @@
     <Compile Include="Scripts\OpcodeRuleEngine.cs" />
     <Compile Include="Scripts\Opcodes\Numbers\Digits.cs" />
     <Compile Include="Scripts\Opcodes\Opcode.cs" />
+    <Compile Include="Scripts\Opcodes\Register\Increment.cs" />
     <Compile Include="Scripts\Opcodes\Register\RegisterMov.cs" />
   </ItemGroup>
   <ItemGroup>

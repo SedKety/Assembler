@@ -6,4 +6,14 @@ MA 2
 MA  
 MI 
 
+IA 
+IA 
+IA
+IA
+IA
+IA
+ID
+IB
+II
+
 #in the end all registers should be 0 except edx which should be 7

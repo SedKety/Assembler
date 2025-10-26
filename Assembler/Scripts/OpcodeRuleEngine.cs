@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Compiler;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -26,6 +27,7 @@ namespace Assembler
         {
             opcodes.Add(new RegisterMov());
             opcodes.Add(new Digits());
+            opcodes.Add(new Increment());
             _initialized = true;
         }
 
