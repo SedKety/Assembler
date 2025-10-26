@@ -1,0 +1,9 @@
+﻿MAMA 6942
+MA   #Check this bro, i can write comments ;O
+MB  
+MD 7  
+MA 2 
+MA  
+MI 
+
+#in the end all registers should be 0 except edx which should be 7

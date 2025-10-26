@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|c:\\users\\nobem\\documents\\github\\passwordbypasser\\assembler\\scripts\\opcodes\\opcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:scripts\\opcodes\\opcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\scripts\\opcodes\\opcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|solutionrelative:scripts\\opcodes\\opcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\scripts\\opcodes\\numbers\\digits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|solutionrelative:scripts\\opcodes\\numbers\\digits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|solutionrelative:code.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\scripts\\opcoderuleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|solutionrelative:scripts\\opcoderuleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|solutionrelative:assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\scripts\\opcodes\\register\\registermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Compiler.csproj|solutionrelative:scripts\\opcodes\\register\\registermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Opcode.cs",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\Opcodes\\Opcode.cs",
+              "RelativeDocumentMoniker": "Scripts\\Opcodes\\Opcode.cs",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\Opcodes\\Opcode.cs",
+              "RelativeToolTip": "Scripts\\Opcodes\\Opcode.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:18:31.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Opcode.cs",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\Opcodes\\Opcode.cs",
+              "RelativeDocumentMoniker": "Scripts\\Opcodes\\Opcode.cs",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\Opcodes\\Opcode.cs",
+              "RelativeToolTip": "Scripts\\Opcodes\\Opcode.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:10:52.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Digits.cs",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\Opcodes\\Numbers\\Digits.cs",
+              "RelativeDocumentMoniker": "Scripts\\Opcodes\\Numbers\\Digits.cs",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\Opcodes\\Numbers\\Digits.cs",
+              "RelativeToolTip": "Scripts\\Opcodes\\Numbers\\Digits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:08:03.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Code.txt",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Code.txt",
+              "RelativeDocumentMoniker": "Code.txt",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Code.txt",
+              "RelativeToolTip": "Code.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-22T22:49:18.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:46:19.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assembler.cs",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Assembler.cs",
+              "RelativeDocumentMoniker": "Assembler.cs",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Assembler.cs",
+              "RelativeToolTip": "Assembler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:24:23.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpcodeRuleEngine.cs",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\OpcodeRuleEngine.cs",
+              "RelativeDocumentMoniker": "Scripts\\OpcodeRuleEngine.cs",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\OpcodeRuleEngine.cs",
+              "RelativeToolTip": "Scripts\\OpcodeRuleEngine.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:10:06.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterMov.cs",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\Opcodes\\Register\\RegisterMov.cs",
+              "RelativeDocumentMoniker": "Scripts\\Opcodes\\Register\\RegisterMov.cs",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\PasswordBypasser\\Assembler\\Scripts\\Opcodes\\Register\\RegisterMov.cs",
+              "RelativeToolTip": "Scripts\\Opcodes\\Register\\RegisterMov.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:09:29.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

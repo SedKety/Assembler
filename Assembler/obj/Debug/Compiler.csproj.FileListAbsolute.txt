@@ -1,0 +1,7 @@
+C:\Users\nobem\Documents\Github\PasswordBypasser\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+C:\Users\nobem\Documents\Github\PasswordBypasser\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+C:\Users\nobem\Documents\Github\PasswordBypasser\Compiler\bin\Debug\Compiler.exe.config
+C:\Users\nobem\Documents\Github\PasswordBypasser\Compiler\bin\Debug\Compiler.exe
+C:\Users\nobem\Documents\Github\PasswordBypasser\Compiler\bin\Debug\Compiler.pdb
+C:\Users\nobem\Documents\Github\PasswordBypasser\Compiler\obj\Debug\Compiler.exe
+C:\Users\nobem\Documents\Github\PasswordBypasser\Compiler\obj\Debug\Compiler.pdb
