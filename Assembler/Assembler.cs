@@ -16,7 +16,6 @@ namespace Assembler
 
             writer.Seek(entrypoint, SeekOrigin.Begin);
 
-            //Write the program
             for (int i = 0; i < program.Length; i++)
             {
                 writer.Write(program[i]);

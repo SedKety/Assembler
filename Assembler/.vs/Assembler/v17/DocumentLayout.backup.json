@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|c:\\users\\nobem\\documents\\github\\assembler\\assembler\\scripts\\opcodes\\register\\increment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\scripts\\opcoderuleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:scripts\\opcoderuleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\scripts\\opcodes\\register\\increment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:scripts\\opcodes\\register\\increment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\code.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:scripts\\opcodes\\numbers\\digits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\scripts\\opcoderuleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:scripts\\opcoderuleengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|c:\\users\\nobem\\documents\\github\\assembler\\assembler\\scripts\\opcodes\\register\\registermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\scripts\\opcodes\\register\\registermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:scripts\\opcodes\\register\\registermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|c:\\users\\nobem\\documents\\github\\assembler\\assembler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF820D7D-0185-44D7-BC83-25CCE7BFB272}|Assembler.csproj|solutionrelative:assembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Digits.cs",
-              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\Opcodes\\Numbers\\Digits.cs",
-              "RelativeDocumentMoniker": "Scripts\\Opcodes\\Numbers\\Digits.cs",
-              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\Opcodes\\Numbers\\Digits.cs",
-              "RelativeToolTip": "Scripts\\Opcodes\\Numbers\\Digits.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAWwBsAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T22:10:10.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Code.txt",
               "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Code.txt",
               "RelativeDocumentMoniker": "Code.txt",
               "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Code.txt",
               "RelativeToolTip": "Code.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-10-26T11:43:17.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwCoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T11:19:16.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Assembler.cs",
               "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Assembler.cs",
               "RelativeDocumentMoniker": "Assembler.cs",
               "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Assembler.cs",
               "RelativeToolTip": "Assembler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T11:19:20.198Z"
+              "WhenOpened": "2025-10-26T11:19:20.198Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "OpcodeRuleEngine.cs",
               "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\OpcodeRuleEngine.cs",
               "RelativeDocumentMoniker": "Scripts\\OpcodeRuleEngine.cs",
               "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\OpcodeRuleEngine.cs",
               "RelativeToolTip": "Scripts\\OpcodeRuleEngine.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwB0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T11:23:13.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Increment.cs",
               "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\Opcodes\\Register\\Increment.cs",
               "RelativeDocumentMoniker": "Scripts\\Opcodes\\Register\\Increment.cs",
               "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\Opcodes\\Register\\Increment.cs",
               "RelativeToolTip": "Scripts\\Opcodes\\Register\\Increment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T21:51:24.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "RegisterMov.cs",
               "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\Opcodes\\Register\\RegisterMov.cs",
               "RelativeDocumentMoniker": "Scripts\\Opcodes\\Register\\RegisterMov.cs",
               "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\Opcodes\\Register\\RegisterMov.cs",
               "RelativeToolTip": "Scripts\\Opcodes\\Register\\RegisterMov.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwCIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T21:53:31.813Z",
+              "WhenOpened": "2025-10-26T21:53:31.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Digits.cs",
+              "DocumentMoniker": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\Opcodes\\Numbers\\Digits.cs",
+              "RelativeDocumentMoniker": "Scripts\\Opcodes\\Numbers\\Digits.cs",
+              "ToolTip": "C:\\Users\\nobem\\Documents\\Github\\Assembler\\Assembler\\Scripts\\Opcodes\\Numbers\\Digits.cs",
+              "RelativeToolTip": "Scripts\\Opcodes\\Numbers\\Digits.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:10:10.92Z",
               "EditorCaption": ""
             }
           ]

@@ -19,3 +19,4 @@ C:\Users\nobem\Documents\Github\Assembler\Assembler\obj\Debug\Assembler.csproj.A
 C:\Users\nobem\Documents\Github\Assembler\Assembler\obj\Debug\Assembler.csproj.CoreCompileInputs.cache
 C:\Users\nobem\Documents\Github\Assembler\Assembler\obj\Debug\Compiler.exe
 C:\Users\nobem\Documents\Github\Assembler\Assembler\obj\Debug\Compiler.pdb
+C:\Users\nobem\Documents\Github\Assembler\Assembler\obj\Debug\Compiler.exe.config

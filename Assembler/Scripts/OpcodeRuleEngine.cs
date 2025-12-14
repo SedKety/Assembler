@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Reflection.Emit;
 using System.Text;
 using System.Threading;
@@ -12,6 +13,7 @@ namespace Assembler
 { 
     internal class OpcodeRuleEngine
     {
+        private Assembly assembly;
         private List<Opcode> opcodes = new List<Opcode>();
         private bool _initialized = false;
 
@@ -25,9 +27,17 @@ namespace Assembler
 
         private void Initialize()
         {
-            opcodes.Add(new RegisterMov());
-            opcodes.Add(new Digits());
-            opcodes.Add(new Increment());
+            assembly = Assembly.GetExecutingAssembly();
+            var codes = assembly.GetTypes()
+            .Where(t => t.IsSubclassOf(typeof(Opcode)) && !t.IsAbstract)
+            .ToList();
+
+            foreach (var code in codes)
+            {
+                var instance = (Opcode)Activator.CreateInstance(code);
+                opcodes.Add(instance);
+            }
+
             _initialized = true;
         }
 
@@ -68,14 +78,14 @@ namespace Assembler
                     continue;
                 }
 
-                // Find an opcode which is valid for the current character
+                //Find an opcode which is valid for the current character
                 var opcode = opcodes.FirstOrDefault(o => o.IsValid(c));
                 if (opcode == null)
                 {
                     throw new Exception($"No opcode for: {c}");
                 }
 
-                // Get the base opcode for the current character
+                //Get the base opcode for the current character
                 byte opcodeValue = opcode.OpcodeValue(c);
 
                 //Add the opcode to the machine code if it's not a skip byte
@@ -83,7 +93,7 @@ namespace Assembler
                 {
                     if (opcode.OverWritePreviousByte)
                     {
-                        // Overwrite the previous N bytes, starting from the most recent written bytes
+                        //Overwrite the previous N bytes, starting from the most recent written bytes
                         for (int i = opcode.ByteCount(); i > 0; i--)
                         {
                             int targetIndex = bc - i; // overwrite existing bytes that were just written
@@ -93,7 +103,7 @@ namespace Assembler
                             }
                         }
 
-                        // Now advance bc by the number of bytes logically "processed"
+                        //Now advance bc by the number of bytes logically "processed"
                         bc += 1;
                     }
                     else
@@ -122,8 +132,7 @@ namespace Assembler
                 pc++; // Move to the next instruction
             }
 
-
-            for(int i = 0; i < machineCode.Count; i++)
+            for (int i = 0; i < machineCode.Count; i++)
             {
                 var prntStr = $"Byte {i}: 0x{machineCode[i]:X2}";
                 if (machineCode[i] == 0x00) { prntStr = "Empty"; }
